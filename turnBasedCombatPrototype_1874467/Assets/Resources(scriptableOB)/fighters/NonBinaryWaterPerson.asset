@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 747a822171da4d244ac52b5a32949fad, type: 3}
+  m_Name: NonBinaryWaterPerson
+  m_EditorClassIdentifier: 
+  name: NonBinaryWaterPerson
+  description: 
+  attack: 48
+  defense: 65
+  speed: 63
+  HP: 44
+  sAttack: 50
+  sDefense: 69
+  type1: 2
+  type2: 0
+  frontVeiw: {fileID: 21300000, guid: 19052f6bfa141ed46844f1426c13e562, type: 3}
+  backVeiw: {fileID: 0}
+  Moves2BLearned:
+  - moveBase: {fileID: 11400000, guid: 8243bfeafade2fc4bbac4abac2a678ce, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6e62af6f005e7e849b939b32dcbe2e79, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 7197ff42d48248a42a49480c9a45ddba, type: 2}
+    level: 1
